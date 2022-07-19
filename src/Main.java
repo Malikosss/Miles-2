@@ -6,6 +6,6 @@ public class Main {
         int miles = price / bonus; // количество бонусных миль
 
         System.out.println("количество ваших бонусных миль - " + (miles));
-    
+
     }
 }
